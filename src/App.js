@@ -2,7 +2,9 @@
 function App() {
   return (
     <div>
-      <h1>Initialize project</h1>
+        <h1>Hello world</h1>
+        <button>Click me</button>
+        <input type={"text"} placeholder={'input value...'}/>
     </div>
   );
 }
